@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class PetrolCalculatorDebug {
     public static void main(String[] args) {
         new PetrolCalculatorDebug().calculate();
+        System.out.println("Hello");
     }
 
     public void calculate() {
